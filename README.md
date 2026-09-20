@@ -53,7 +53,7 @@ Program ini menerapkan Inheritance (Pewarisan) dengan struktur kelas sebagai ber
 
 ---
 
-## 4. Penjelasan Bagian Kode Yang Menerapkan Inheritance
+## Penjelasan Bagian Kode Yang Menerapkan Inheritance
 
 ### Penerapan inheritance pada kode:
 ```java
