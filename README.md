@@ -4,6 +4,8 @@
 
 **NIM:** 2509116053
 
+**Kelas:** B
+
 ---
 
 ## Studi Kasus Sistem Manajemen Penitipan Anak
