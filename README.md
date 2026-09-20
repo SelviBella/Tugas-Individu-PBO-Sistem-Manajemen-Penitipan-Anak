@@ -12,13 +12,11 @@ Program aplikasi Sistem Manajemen Penitipan Anak (Daycare) berbasis konsol (Comm
 ---
 
 ## Diagram Kelas (Hierarki Class)
-Program ini menerapkan prinsip Inheritance (Pewarisan) dengan struktur kelas sebagai berikut:
+Program ini menerapkan Inheritance (Pewarisan) dengan struktur kelas sebagai berikut:
 
-Program ini menerapkan prinsip Inheritance (Pewarisan) dengan struktur kelas sebagai berikut:
-
-* Anak (Super-class):* Kelas utama yang memegang data dasar identitas anak seperti idAnak, nama, dan usia.
-* TarifHarian (Sub-class):* Mewarisi kelas Anak dengan tambahan properti tarif hitungan harian (tarifPerHari).
-* TarifBulanan (Sub-class):* Mewarisi kelas Anak dengan tambahan data paket bulanan (tarifPerBulan) dan fasilitas katering anak (menuKatering).
+* Anak (Super-class): Kelas utama yang memegang data dasar identitas anak seperti idAnak, nama, dan usia.
+* TarifHarian (Sub-class): Mewarisi kelas Anak dengan tambahan properti tarif hitungan harian (tarifPerHari).
+* TarifBulanan (Sub-class): Mewarisi kelas Anak dengan tambahan data paket bulanan (tarifPerBulan) dan fasilitas katering anak (menuKatering).
 
 ```text
        +---------------------------------------+
